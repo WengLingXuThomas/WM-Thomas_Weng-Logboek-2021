@@ -12,4 +12,5 @@
 - Video REST bekeken
 - api voorbeelden analyseren en begrijpen
 - oefening maken (html , css , javascript , REST API) met uitbreiding
+- Resultaat oefening: http://www.mydomain-lingxu.be/WM/les2/app.html
 - SSH voor sftp filezilla geconfigureert
