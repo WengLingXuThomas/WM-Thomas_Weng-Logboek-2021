@@ -1,4 +1,4 @@
-# BWD-portfolio-LingXuThomasWeng
+# WM-portfolio-LingXuThomasWeng
 
 
 ![alt text](https://github.com/WengLingXuThomas/WM-Thomas_Weng-Logboek-2021/blob/master/foto.png)
