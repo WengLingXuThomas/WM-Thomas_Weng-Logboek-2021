@@ -21,3 +21,4 @@
 - setup cordova en bijkomende software
 - met cordova een app maken die CRUD operaties doet op mijn databank met gebruik van een fetch API, APK te vinden onder de map 'oefenigen' -> 'week3'
 - deze documentatie bekeken -> https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-dialogs/index.html
+- https://stackoverflow.com/questions/54752716/why-am-i-seeing-neterr-cleartext-not-permitted-errors-after-upgrading-to-cordo
