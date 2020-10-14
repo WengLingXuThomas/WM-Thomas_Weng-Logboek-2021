@@ -14,3 +14,10 @@
 - oefening maken (html , css , javascript , REST API) met uitbreiding
 - Resultaat oefening: http://www.mydomain-lingxu.be/WM/les2/app.html
 - SSH voor sftp filezilla geconfigureert
+
+### Week 3 - 5 uur
+- presentaties hernemen
+- afwerken vorige oefening
+- setup cordova en bijkomende software
+- met cordova een app maken die CRUD operaties doet op mijn databank met gebruik van een fetch API, APK te vinden onder de map 'oefenigen' -> 'week3'
+- deze documentatie bekeken -> https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-dialogs/index.html
