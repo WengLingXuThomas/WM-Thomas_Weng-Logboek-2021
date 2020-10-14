@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>test</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/stijl.css">        
+</head>
+
+<body>
+
+    <div id="alert">
+        Wat wil je doen vandaag?
+    </div>
+    <div class="forms">
+        <div class="lgn">
+            <form class="loginForm">
+                <label for="login">Login:</label><input type="text" id="login"><br>
+                <label for="pwd">Paswoord:</label><input type="password" id="pwd">
+            </form>
+        </div>
+        <div class="dynamic hide" id="FormAddPr">
+            <form>
+                <label for="prctid" name="prctid">Categorie:</label>
+                <select type="text" id="prctid" class="select">
+                    <option value="-1">Kies een categorie:</option>
+                    <option value="1">Fruit</option>
+                    <option value="2">Groenten</option>
+                    <option value="3">Vervoermiddel</option>
+                </select><br>
+                <label for="prname" name="prname" >Product naam:</label><input type="text" id="prname"><br>
+                <label for="prprice" name="prprice">Prijs:</label><input type="number" id="prprice"><br>
+                <span class="knop kOdd2 add btnstyle" id="btnaddProd">toevoegen</span>
+            </form>
+        </div>
+        <div class="dynamic hide" id="FormDellPr">
+            <form>
+                <label for="prIdDel" name="prprice">Product ID:</label><input type="number" id="prIdDel"><br>
+                <span class="knop kOdd2 add btnstyle" id="btnDellProd">verwijderen</span>
+            </form>
+        </div>
+        <div class="dynamic hide" id="FormModPr">
+            <form>
+                <label for="prmodid" name="prmodid">Product ID:</label><input type="number" id="prmodid"><br>
+                <label for="prmodname" name="prmodname">Product naam:</label><input type="text" id="prmodname"><br>
+                <label for="prmodprice" name="prmodprice">Prijs:</label><input type="number" id="prmodprice"><br>
+                <label for="prmodctid" name="prmodctid">Categorie:</label>
+                <select type="text" id="prmodctid" class="select">
+                    <option value="-1">Kies een categorie:</option>
+                    <option value="1">Fruit</option>
+                    <option value="2">Groenten</option>
+                    <option value="3">Vervoermiddel</option>
+                </select><br>
+                <span class="knop kOdd2 add btnstyle" id="btnModProd">Wijzigen</span>
+            </form>
+        </div>
+    </div>
+    <div>
+        <span class="knop kOdd" id="btnTestLogin">Login</span>
+        <span class="knop kOdd" id="btnGetTijd">Get servertijd</span>
+        <span class="knop kOdd" id="btnGetProducten">Toon producten</span>
+    </div>
+   <div>
+       <span class="knop kOdd hover" id="showAddProduct">+Product toevoegen</span>
+       <span class="knop kOdd hover" id="showDelProduct">+Product verwijderen</span>
+       <span class="knop kOdd hover" id="showModProduct">+Product aanpassen</span>
+   </div>
+
+
+    <!-- eigen scripts hier -->
+    <script src="js/script.js" defer async></script>
+
+</body>
+</html>
