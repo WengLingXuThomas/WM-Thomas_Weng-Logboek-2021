@@ -1,0 +1,27 @@
+<template>
+    <div class="page" data-name="locatie">
+      <div class="navbar">
+        <div class="navbar-bg"></div>
+        <div class="navbar-inner sliding">
+          <div class="title">Camera</div>
+        </div>
+      </div>
+      <div class="page-content">
+        <div class="block block-strong">
+          <p><a href="#" id="btnCamera" class="button button-fill button-raised" @click="getLocatie">Neem een foto</a></p>
+          <p id="cameraResultaat">
+         
+          </p>
+        </div>
+      </div>
+    </div>
+</template>
+<script>
+    return {
+      methods: {
+        getLocatie: function (){
+            takePicture();
+        },
+      },
+    };
+  </script>

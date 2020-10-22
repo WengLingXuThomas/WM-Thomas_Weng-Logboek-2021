@@ -23,3 +23,10 @@
 - Login om de app te testen, username: ik , passwoord: ik ; Of username: test , passwoord: test 
 - deze documentatie bekeken -> https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-dialogs/index.html
 - https://stackoverflow.com/questions/54752716/why-am-i-seeing-neterr-cleartext-not-permitted-errors-after-upgrading-to-cordo
+
+### Week 4 - 4 uur
+- setup framework 7
+- verschillende stappen/branches doorgelopen op github
+- toepassen locatie, camera plugin
+- data opvraging implementeren
+- nadenken over project
