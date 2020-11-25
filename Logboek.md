@@ -31,12 +31,12 @@
 - data opvraging implementeren
 - nadenken over project
 
-### week 5 6 uur
+### week 5 - 6 uur
 - opzoeken wat node.js is en welke mogelijkheden het biedt voor onze app --> https://www.youtube.com/watch?v=pU9Q6oiQNd0
 - info zoek over websockets https://www.youtube.com/watch?v=i6eP1Lw4gZk&t=111s
 - enkele tutorials bekeken over multiplayer canvas --> https://wormius.herokuapp.com/tutorials/making-a-multiplayer-canvas-with-node
 
-### Week 6 8,5 uur
+### Week 6 - 8,5 uur
 - udacity cursus hfst 1-2
 - Initiatie project: repository, framework 7 start template aanmaken,...
 - bespreken navigatie en layout app
