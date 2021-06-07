@@ -4,13 +4,13 @@
 - firebase documentatie bekijken
 
 ### Week 2 - 22/02/2021 - 5-6 Uur
--f7 routing 
--package name toevoegen
--start integratie FB in app
--hint placeholder handling
--Doodler domein naam package correcteren
--Developer account invite accepteren
--clean up main branch github
+- f7 routing 
+- package name toevoegen
+- start integratie FB in app
+- hint placeholder handling
+- Doodler domein naam package correcteren
+- Developer account invite accepteren
+- clean up main branch github
 
 ### Week 3 - 1/3/2021
 - App routing structuur binnen project 
@@ -18,7 +18,7 @@
 ### Week 4 -8/3/2021
 - Merge conflicten oplossen
 - Wekelijkse meeting
--lay outs schetsen voor volgende paginas
+- lay outs schetsen voor volgende paginas
 
 ### Week 5 - 15/3/2021  (Hackathon Week)
 - css fix
@@ -55,23 +55,23 @@
 - uitwerking userlist with icons, verdere game flow
 
 ### Week 11 10/5/2021
--App registratie doodler google play console
--Doodler Open Beta Release
--Afwerken configuratie Google Play Console
+- App registratie doodler google play console
+- Doodler Open Beta Release
+- Afwerken configuratie Google Play Console
 
 ### Week 12 17/5/2021
--start documentatie Doodler
+- start documentatie Doodler
 
 ### Week 12 24/5/2021
 -layout verfijning
 
 ### Week 13 31/5/2021
--Volledige flow public games
--statistiek gegevens wegschrijven naar firestore
--fix inconsistentie friendrequests
--Chat maakt nu gebruik van listeners voor realtime messaging
--Documentatie afwerken, Presentatie maken voor EP2
--Tweede versie uploaden google play console.
+- Volledige flow public games
+- statistiek gegevens wegschrijven naar firestore
+- fix inconsistentie friendrequests
+- Chat maakt nu gebruik van listeners voor realtime messaging
+- Documentatie afwerken, Presentatie maken voor EP2
+- Tweede versie uploaden google play console.
 
 ### Week 14 7/6/2021
 - presentatie mondeling & demo 
